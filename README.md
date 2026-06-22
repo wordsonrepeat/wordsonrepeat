@@ -117,7 +117,8 @@ Any language pair works. Full curated deck coverage for:
 | AI extractions | 5/month | 5/day | 20/day |
 | Study modes & quizzes | All | All | All |
 | FSRS spaced repetition | Yes | Yes | Yes |
-| Anki import/export | — | Yes | Yes |
+| Anki & Quizlet import | Yes | Yes | Yes |
+| Anki export | — | Yes | Yes |
 | Full analytics & heatmap | — | Yes | Yes |
 | API access | — | Yes | Yes |
 | Price | **Free** | **$4.99/mo** | **$14.99/mo** |
