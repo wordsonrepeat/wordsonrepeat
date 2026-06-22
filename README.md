@@ -60,7 +60,7 @@ Free to start. No credit card required.
 
 ### Public Deck Marketplace
 <p align="center">
-  <img src="screenshots/public-decks.png" alt="185+ free curated decks across 11 languages" width="800">
+  <img src="screenshots/public-decks.png" alt="185+ free curated decks across 12 languages" width="800">
 </p>
 
 ## Features
@@ -77,7 +77,7 @@ Free to start. No credit card required.
 - Daily study goals with push notification reminders
 
 ### 185+ Curated Decks
-- Official vocabulary sets across 11 languages: Spanish, French, German, Italian, Portuguese, Dutch, Polish, English, Japanese, Korean, Chinese
+- Official vocabulary sets across 12 languages: Spanish, French, German, Italian, Portuguese, Dutch, Polish, English, Japanese, Korean, Chinese, Swiss German
 - Full CEFR coverage (A1–C2) with grammar notes and example sentences
 
 ### Organization & Sharing
@@ -106,7 +106,7 @@ Any language pair works. Full curated deck coverage for:
 |---|---|---|---|
 | Spanish | French | German | Italian |
 | Portuguese | Dutch | Polish | English |
-| Japanese | Korean | Chinese | |
+| Japanese | Korean | Chinese | Swiss German |
 
 ## Pricing
 
